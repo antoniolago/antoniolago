@@ -1,14 +1,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-    Meu nome é <strong>Antônio Lago</strong>, sou desenvolvedor Full-Stack no Sindicato dos Professor do Rio Grande do Sul (SINPRO/RS) e estudante de <strong>Ciência da Computação</strong> na ULBRA Canoas.
+    Meu nome é <strong>Antônio Lago</strong>, atualmente trabalho com .NET e Angular no Dell Sales Application, contratado pela Meta, também sou estudante de <strong>Ciência da Computação</strong> na ULBRA Canoas.
 </p>
 
 <p align="left">
   🌐 <strong>Projetos:</strong><br/>
   <ul>
-    <li>
-  <a target="_blank" href="http://professor.sinprors.org.br">Espaço do Professor - Sinpro/RS</a></li>
+    <li><a target="_blank" href="http://escola.sinprors.org.br">Espaço da Escola - Sinpro/RS</a></li>
+    <li><a target="_blank" href="http://professor.sinprors.org.br">Espaço do Professor - Sinpro/RS</a></li>
     <li>Sinpro/RS Questionários - Sinpro/RS</li>
     <li>UPS Server (RaspBerry Pi 3b) - Sinpro/RS</li>
     <li>Gerenciador de Envios Automatizados Whatsapp - Sinpro/RS</li>
