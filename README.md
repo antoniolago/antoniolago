@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-    Meu nome é <strong>Antônio Lago</strong>, atualmente trabalho com .NET e Angular no Dell Sales Application, contratado pela Meta, também sou estudante de <strong>Ciência da Computação</strong> na ULBRA Canoas.
+    My name is <strong>Antônio Lago</strong>, I'm a full stack developer and a Computer Science student at ULBRA Canoas.
 </p>
 
 <p align="left">
-  🌐 <strong>Projetos:</strong><br/>
+  🌐 <strong>Projects:</strong><br/>
   <ul>
     <li><a target="_blank" href="http://escola.sinprors.org.br">Espaço da Escola - Sinpro/RS</a></li>
     <li><a target="_blank" href="http://professor.sinprors.org.br">Espaço do Professor - Sinpro/RS</a></li>
@@ -32,8 +32,10 @@
 <p align="left">
   🚀<strong> Frameworks:</strong><br/><br/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -41,14 +43,14 @@
 </p>
 
 <p align="left">
-  ⚡ <strong>Bancos de Dados:</strong><br/><br/>
+  ⚡ <strong>DBs:</strong><br/><br/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
 </p>
 <p align="left">
-  💼 <strong>Ferramentas:</strong><br/><br/>
+  💼 <strong>Tools:</strong><br/><br/>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
