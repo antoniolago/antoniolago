@@ -5,17 +5,16 @@
 </p>
 
 <p align="left">
-  🌐 <strong>Projects:</strong><br/>
+  🌐 <strong>Projects of my authorship:</strong><br/>
   <ul>
     <li><a target="_blank" href="http://escola.sinprors.org.br">Espaço da Escola - Sinpro/RS</a></li>
     <li><a target="_blank" href="http://professor.sinprors.org.br">Espaço do Professor - Sinpro/RS</a></li>
-    <li>Sinpro/RS Questionários - Sinpro/RS</li>
+    <li>Sinpro/RS Questionários e Votações - Sinpro/RS</li>
     <li>UPS Server (RaspBerry Pi 3b) - Sinpro/RS</li>
     <li>Gerenciador de Envios Automatizados Whatsapp - Sinpro/RS</li>
   </ul>
 </p>
 <p align="left">
-  👓 <strong>Languages:</strong><br/><br/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
@@ -30,7 +29,6 @@
 
 
 <p align="left">
-  🚀<strong> Frameworks:</strong><br/><br/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
@@ -43,14 +41,12 @@
 </p>
 
 <p align="left">
-  ⚡ <strong>DBs:</strong><br/><br/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
 </p>
 <p align="left">
-  💼 <strong>Tools:</strong><br/><br/>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
