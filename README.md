@@ -1,17 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-    My name is <strong>Antônio Lago</strong>, I'm a full stack developer and a Computer Science student at ULBRA Canoas.
+    My name is <strong>Antônio Lago</strong>, I'm a full stack developer at Sinpro/RS (teacher's union) and a Computer Science student at ULBRA Canoas.
 </p>
 
 <p align="left">
   🌐 <strong>Projects of my authorship:</strong><br/>
   <ul>
-    <li><a target="_blank" href="http://escola.sinprors.org.br">Espaço da Escola - Sinpro/RS</a></li>
-    <li><a target="_blank" href="http://professor.sinprors.org.br">Espaço do Professor - Sinpro/RS</a></li>
-    <li>Sinpro/RS Questionários e Votações - Sinpro/RS</li>
-    <li>UPS Server (RaspBerry Pi 3b) - Sinpro/RS</li>
-    <li>Gerenciador de Envios Automatizados Whatsapp - Sinpro/RS</li>
+    <li><a target="_blank" href="http://escola.sinprors.org.br">Espaço da Escola - Sinpro/RS</a> (logged in area for schools)</li>
+    <li><a target="_blank" href="http://professor.sinprors.org.br">Espaço do Professor - Sinpro/RS</a> (logged in area for teachers)</li>
+    <li>Sinpro/RS Questionários e Votações - Sinpro/RS (voting system)</li>
+    <li>UPS Server (RaspBerry Pi 3b) - Sinpro/RS (datacenter automation system)</li>
   </ul>
 </p>
 <p align="left">
