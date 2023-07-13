@@ -5,15 +5,6 @@
 </p>
 
 <p align="left">
-  🌐 <strong>Projects of my authorship:</strong><br/>
-  <ul>
-    <li><a target="_blank" href="http://escola.sinprors.org.br">Espaço da Escola - Sinpro/RS</a> (logged in area for schools)</li>
-    <li><a target="_blank" href="http://professor.sinprors.org.br">Espaço do Professor - Sinpro/RS</a> (logged in area for teachers)</li>
-    <li>Sinpro/RS Questionários e Votações - Sinpro/RS (voting system)</li>
-    <li>UPS Server (RaspBerry Pi 3b) - Sinpro/RS (datacenter automation system)</li>
-  </ul>
-</p>
-<p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
