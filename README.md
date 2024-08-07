@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-    My name is <strong>Antônio Lago</strong>, I'm a full stack developer at Sinpro/RS (teacher's union) and a Computer Science student at ULBRA Canoas.
+    My name is <strong>Antônio Lago</strong>, I'm a full stack developer at DBServer at the service of Sinpro/RS (teacher's union) and a Computer Science student at ULBRA Canoas.
 </p>
 
 <p align="left">
