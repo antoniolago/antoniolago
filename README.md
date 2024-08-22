@@ -1,7 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+<p align="left">
+    Meu nome é <strong>Antônio Lago</strong>, sou <strong>Desenvolvedor Full Cycle</strong> na <strong>DBServer</strong> a serviço do <strong>Sinpro/RS</strong> (sindicato dos professores), e possuo um diploma em     <strong>Ciência da Computação</strong> pela <strong>Universidade Luterana do Brasil (ULBRA)</strong>.
+</p>
 <p align="left"> 
-    My name is <strong>Antônio Lago</strong>, I'm a full stack developer at DBServer at the service of Sinpro/RS (teacher's union) and a Computer Science student at ULBRA Canoas.
+    My name is <strong>Antônio Lago</strong>, I'm a <strong>Full Cycle Developer</strong> at <strong>DBServer</strong> at the service of <strong>Sinpro/RS</strong> (teacher's union), and I hold a degree in <strong>Computer Science</strong> from <strong>Universidade Luterana do Brasil (ULBRA)</strong>
 </p>
 
 <p align="left">
