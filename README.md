@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-    Meu nome é <strong>Antônio Lago</strong>, sou <strong>Desenvolvedor Full Cycle</strong> na <strong>DBServer</strong> a serviço do <strong>Sinpro/RS</strong> (Sindicato dos Professores do Ensino Privado do Rio Grande do Sul), e também Bacharel em <strong>Ciência da Computação</strong> pela <strong>Universidade Luterana do Brasil (ULBRA)</strong>.
+    Meu nome é <strong>Antônio Lago</strong>, sou <strong>Desenvolvedor Full Cycle</strong> na <a href="https://db.tec.br/"><strong>DB</strong>,</a> a serviço do <strong>Sinpro/RS</strong> (Sindicato dos Professores do Ensino Privado do Rio Grande do Sul), e também Bacharel em <strong>Ciência da Computação</strong> pela <strong>Universidade Luterana do Brasil (ULBRA)</strong>.
 
 </p>
 <p align="left"> 
-    My name is <strong>Antônio Lago</strong>, I'm a <strong>Full Cycle Developer</strong> at <strong>DBServer</strong> at the service of <strong>Sinpro/RS</strong> (Union of Private Education Teachers of Rio Grande do Sul), and I hold a Bachelor's degree in <strong>Computer Science</strong> from <strong>Universidade Luterana do Brasil (ULBRA)</strong>.
+    My name is <strong>Antônio Lago</strong>, I'm a <strong>Full Cycle Developer</strong> at <a href="https://db.tec.br/"><strong>DB</strong>,</a> at the service of <strong>Sinpro/RS</strong> (Union of Private Education Teachers of Rio Grande do Sul), and I hold a Bachelor's degree in <strong>Computer Science</strong> from <strong>Universidade Luterana do Brasil (ULBRA)</strong>.
 </p>
 
 <p align="left">
