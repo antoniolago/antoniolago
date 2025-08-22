@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
 </p>
 
-### 📫 Contact Me
+#### 📫 Contact Me
 <p align="left">
   <a href="mailto:antonio.lago@rede.ulbra.br" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -61,5 +61,5 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>  
 
-### Liked anything I did?
-<a href="https://www.buymeacoffee.com/ericdolch"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="40px"></a>
+#### Liked anything I did?
+<a href="https://www.buymeacoffee.com/ericdolch"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="30px"></a>
