@@ -61,5 +61,4 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>  
 
-#### Liked anything I built?
 <a href="https://www.buymeacoffee.com/tonio"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="30px"></a>
