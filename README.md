@@ -54,7 +54,7 @@
 
 #### 📫 Contact Me
 <p align="left">
-  <a href="mailto:antonio.lago@rede.ulbra.br" alt="Gmail">
+  <a href="mailto:antonio.clago@outlook.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 
   <a href="https://www.linkedin.com/in/antonioclago/" alt="Linkedin">
